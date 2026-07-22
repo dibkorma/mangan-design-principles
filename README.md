@@ -50,8 +50,10 @@ Open (or restart) Claude Code. That's it — Claude applies the principles autom
 
 ```
 mangan-design/
-└── SKILL.md   ← the philosophy (legibility, color hierarchy, layout variety,
-                  logo treatment, composition & balance, delivery)
+└── SKILL.md   ← the philosophy: how to work, iteration & feedback, legibility,
+                  color hierarchy, layout variety, composition & balance, fine
+                  craft, logo treatment, elements, measuring feedback, versioning
+                  & pipeline, QA before showing, and delivery
 ```
 
 ## The layered model
