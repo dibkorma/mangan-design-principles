@@ -35,6 +35,7 @@ Good design lives in three layers. This skill is **Layer 2** only.
 - **When they point at an EXISTING element as reference ("like the one after the hero", "same as section X"), that's a SPECIFICATION, not a vibe.** Go LOOK at that element and clone its **medium and treatment**: photo or illustration? painted or vector? which palette? If their reference is a painting, the new thing is painted — don't bring photos "that match."
 - **Faithful placement.** When the human draws a composition guide (a box, a mark of where each thing goes), respect it **to the letter** — don't auto-center or "improve" the placement.
 - **A request for "more X" is NOT permission to give "less Y."** Before cutting content they already approved, ask: does the request REQUIRE this loss, or am I assuming it? Often both fit. If the trade-off is real, say so and let them choose.
+- **A request for REDUCTION ("less text", "simpler", "cleaner") is executed to the EXTREME — and the human adds back what's missing.** Their bar for "less" is always past your instinct: trimming halfway guarantees a second round of the same feedback. Build the most radical version that still does the job (titles only, everything collapsed, zero surface text) and let them re-add. This does NOT delete information — it moves it one level down, opened on demand ("I decide what I want to open to read").
 
 ## Legibility (the golden rule)
 
